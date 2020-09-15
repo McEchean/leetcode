@@ -1,7 +1,5 @@
 package com.whf.study.jzoffer;
 
-import jdk.nashorn.internal.ir.CallNode;
-
 import java.util.ArrayList;
 
 public class GetUglyNumber_Solution {

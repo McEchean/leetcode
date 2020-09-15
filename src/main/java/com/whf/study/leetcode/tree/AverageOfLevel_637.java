@@ -1,7 +1,5 @@
 package com.whf.study.leetcode.tree;
 
-import com.sun.jmx.remote.internal.ArrayQueue;
-
 import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.List;

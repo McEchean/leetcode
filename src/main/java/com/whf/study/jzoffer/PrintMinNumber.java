@@ -1,8 +1,5 @@
 package com.whf.study.jzoffer;
 
-import com.sun.deploy.security.BadCertificateDialog;
-
-import java.util.ArrayList;
 import java.util.Arrays;
 
 public class PrintMinNumber {

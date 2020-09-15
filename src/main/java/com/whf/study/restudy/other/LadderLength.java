@@ -1,11 +1,6 @@
 package com.whf.study.restudy.other;
 
-import jdk.nashorn.internal.runtime.arrays.ArrayLikeIterator;
-
-import javax.swing.*;
 import java.util.*;
-import java.util.concurrent.ArrayBlockingQueue;
-import java.util.concurrent.LinkedBlockingQueue;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;

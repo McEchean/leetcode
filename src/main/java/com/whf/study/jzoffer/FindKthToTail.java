@@ -1,7 +1,5 @@
 package com.whf.study.jzoffer;
 
-import jdk.nashorn.internal.ir.CallNode;
-
 public class FindKthToTail {
     public static class ListNode {
         int val;
